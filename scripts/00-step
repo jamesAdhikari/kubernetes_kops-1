@@ -8,7 +8,7 @@ sudo apt-get update
 
 sudo apt-get install -y kubectl
 
-wget https://github.com/kubernetes/kops/releases/download/1.15.7/kops-linux-amd64
+wget https://github.com/kubernetes/kops/releases/download/1.12.3/kops-linux-amd64
 
 chmod +x kops-linux-amd64
 
